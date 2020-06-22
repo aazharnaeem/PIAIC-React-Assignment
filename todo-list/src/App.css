@@ -1,0 +1,40 @@
+.App{
+  text-align: center ;
+  color:cyan;
+  opacity: 0.8;
+}
+
+p{
+  opacity: 0.4;
+  color: blue;
+}
+p:hover{
+  opacity: 1;
+}
+input{
+  border-style: groove;
+  
+}
+button{
+  border-style: inset;
+  border-radius: 5px;
+  background-color:cyan;
+  
+}
+ul{
+  list-style-type: NaNstyle;
+
+}
+li{
+  padding: 10px 0px 10px 0px ;
+    margin: 0 auto; 
+    width: 25%; 
+    border: solid black;
+    border-style: outset;
+    border-bottom: solid black 1px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+  }
+  li:hover{
+    text-decoration: line-through solid;
+  }
